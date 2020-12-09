@@ -1,0 +1,13 @@
+com\uxpsystems\assignment\controller\UserController.class
+com\uxpsystems\assignment\SpringBootAssignmentApplication.class
+com\uxpsystems\assignment\config\RecieverConfig.class
+com\uxpsystems\assignment\dao\UserCredential.class
+com\uxpsystems\assignment\dao\UserProfileRepository.class
+com\uxpsystems\assignment\dao\UserProfile.class
+com\uxpsystems\assignment\service\ConsumerService.class
+com\uxpsystems\assignment\service\UserCredentialService.class
+com\uxpsystems\assignment\config\SenderConfig.class
+com\uxpsystems\assignment\service\SystemConstants.class
+com\uxpsystems\assignment\service\ProducerService.class
+com\uxpsystems\assignment\dao\UserCredentialRespository.class
+com\uxpsystems\assignment\service\UserProfileService.class
